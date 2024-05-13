@@ -28,3 +28,16 @@ Database Integration:
 
 Utilizes MySQL database for storing and managing truck details, including location coordinates and timestamps.
 Ensures data integrity and reliability for efficient tracking and reporting.
+
+Usage -:
+1) Login to Admin Interface:
+
+Access the admin dashboard using the provided login credentials.
+
+2)View Truck Locations-:
+Navigate through the interface to view the live locations of trucks on the map.
+Monitor truck movements, stops, and any alerts triggered by the system.
+
+3)Receive Notifications:
+Stay informed about any unexpected stops, issues, or offline incidents encountered by the trucks.
+Take appropriate actions based on the received notifications to ensure the smooth operation of the fleet.
